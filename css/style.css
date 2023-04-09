@@ -1,0 +1,380 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+ul{
+    list-style: none;
+}
+img{
+    vertical-align: middle;
+}
+h1,h2,h3,h4,h5,h6,p,span{
+    margin: 0;
+    padding: 0;
+}
+/* common css end  */
+/* banner start  */
+#banner{
+    padding: 220px 0;
+    background: url(../images/banner.jpg) no-repeat center / cover;
+}
+#banner h2{
+    font-family: 'Exo', sans-serif;
+    font-weight: 100;
+    font-size: 60px;
+    line-height: 75px;
+    color: #282828;
+}
+#banner i{
+     margin:34px auto;
+     display: block;
+     line-height: 60px;
+     width: 60px;
+     height: 60px;
+     border-radius: 50%;
+     text-align: center;
+     color: #f5f6f8;
+     background-color: #8286a4;
+     -webkit-border-radius: 50%;
+     -moz-border-radius: 50%;
+     -ms-border-radius: 50%;
+     -o-border-radius: 50%;
+}
+#banner a{
+    font-family: 'Exo', sans-serif;
+  padding: 18px 50px;
+  font-weight: 100;
+  font-size: 18px;
+  letter-spacing: 5px;
+  background-color: #ff6d6d;
+  border-radius: 2px;
+  color: #fff;
+  transition:.3s ;
+  text-transform: uppercase;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  -webkit-transition:.3s ;
+  -moz-transition:.3s ;
+  -ms-transition:.3s ;
+  -o-transition:.3s ;
+}
+#banner a:hover{
+    background-color: #282828;
+    scale: 1.1;
+}
+#banner p{ 
+    font-family: 'Exo', sans-serif;
+    padding-top: 15px;
+     font-weight: 400;
+     font-size: 15px; 
+      color: #282828; 
+}
+
+/* banner end */
+/* design start  */
+#design h3{
+    font-family: 'Exo', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #ff6d6d;
+    line-height: 50px;
+    letter-spacing: 5px;
+}
+#design h2{
+    font-family: 'Exo', sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    color: #282828;
+    line-height: 50px;
+    padding-bottom: 30px;
+}
+#design h2 span{
+    color: #ff6d6d;
+}
+#design p{
+    font-family: 'Exo', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #282828;
+    line-height: 25px;
+    padding-bottom: 30px;
+}
+/* design end */
+/* fesure start  */
+#fesure {
+	background: url(../images/about\ bg.jpg) no-repeat center / cover;
+	padding: 125px 0 170px 0;
+}
+#fesure h4{
+        font-family: 'Exo', sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        color: #ff6d6d;
+        line-height: 50px;
+        letter-spacing: 3px;
+    }
+    #fesure h2{
+        font-family: 'Exo', sans-serif;
+        font-weight: 500;
+        font-size: 40px;
+        color: #282828;
+        line-height: 50px;
+        padding-bottom: 60px;
+    }
+    #fesure h3{
+        font-family: 'Exo', sans-serif;
+        font-weight: 500;
+        font-size:22px;
+        color: #282828;
+        line-height: 50px;
+        padding-top: 30px;
+    }
+    #fesure p{
+        font-family: 'Exo', sans-serif;
+        font-weight: 500;
+        font-size: 17px;
+        color: #282828;
+        line-height: 25px;
+    }
+
+
+/* fesure end */
+/* responsive start  */
+#responsive{
+    padding: 90px 0 100px 0;
+    background: url(../images/wall.jpg) no-repeat center / cover;
+    background-attachment: fixed;
+}
+#responsive h4 {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	color: #ff6d6d;
+	line-height: 50px;
+	letter-spacing: 3px;
+}
+#responsive h2 {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+	font-size: 42px;
+	color: #282828;
+	line-height: 50px;
+	padding-bottom: 30px;
+}
+#responsive h2 span {
+	color: #ff6d6d;
+}
+#responsive p {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	color: #282828;
+	line-height: 16px;
+}
+/* responsive end */
+/* team start */
+#team{
+    padding: 100px 0 80px 0;
+    background: url(../images/team\ bg.jpg) no-repeat center / cover;
+}
+#team h3 {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+	font-size: 22px;
+	color: #ffffff;
+    padding-top: 10px;
+}
+#team h4 {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	color: #ff6d6d;
+    padding-bottom: 20px;
+}
+
+#team p {
+        font-family: 'Exo', sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        color: #ffffff;
+        line-height: 25px;
+        padding-bottom: 30px;
+        font-style: italic;
+}
+/* team end */
+/* features_text start  */
+.features_text{
+    padding: 100px 0 70px 0;
+}
+.features_text h4 {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	color: #ff6d6d;
+	line-height: 40px;
+	letter-spacing: 3px;
+}
+.features_text h2 {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+	font-size: 40px;
+	color: #282828;
+	line-height: 50px;
+	padding-bottom: 30px;
+}
+.features_text p {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	color: #282828;
+	line-height: 25px;
+}
+/* features_text end */
+
+/* user start  */
+#user{
+    background-color: #323969;
+     padding: 90px 0;
+}
+#user h4 {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	color: #ff6d6d;
+	line-height: 40px;
+	letter-spacing: 3px;
+}
+#user h2 {
+        font-family: 'Exo', sans-serif;
+        font-weight: 500;
+        font-size: 40px;
+        color: #ffffff;
+        line-height: 50px;
+        padding-bottom:10px;
+    }
+#user input{
+    width: 100%;
+    padding: 18px 28px;
+    background-color: rgba(255, 255, 255, 0.071);
+    font-size: 16px;
+    color: #ffffff;
+    outline: none;
+    border: 2px solid #ffffff;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+#user button{
+    font-family: 'Exo', sans-serif;
+    font-weight: 400;
+    width: 100%;
+    padding: 18px 0;
+    background-color: #ff6d6d;
+    font-size: 16px;
+    color: #ffffff;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+#user button:hover{
+    background-color: #282828;
+}
+#user p {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	color: #fff;
+	line-height: 25px;
+    padding-top: 20px;
+}
+#user p span{
+    padding-top: 20px;
+    text-decoration: underline;
+cursor: pointer;
+}
+#user i {
+	font-size: 26px;
+    color: #ffffff;
+    padding-bottom: 10px;
+}
+/* user end */
+/* footer start  */
+footer a{
+    display: block;
+}
+footer{
+    padding: 85px 0;
+}
+footer h3 {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+	font-size: 22px;
+	color: #282828;
+	line-height: 50px;
+}
+footer p {
+	font-family: 'Exo', sans-serif;
+	font-weight: 400;
+	font-size: 17px;
+	color: #282828;
+	line-height: 25px;
+}
+footer a {
+	font-family: 'Exo', sans-serif;
+	font-weight: 400;
+	font-size: 17px;
+	color: #282828;
+	line-height: 25px;
+}
+footer a:hover{
+    color: #ff6d6d;
+}
+footer input{
+    width: 80%;
+    padding: 18px 28px;
+    background-color: rgba(255, 255, 255, 0.071);
+    font-size: 16px;
+    outline: none;
+    background-color: #cbcbcb;
+    border: 2px solid #282828;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+footer button {
+	width: 20%;
+	margin-left: -6px;
+	padding: 20px 14px;
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+	outline: none;
+	border: none;
+	background-color: #ff6d6d;
+    color: #fff;
+}
+.icon{
+    padding-top: 20px;
+    
+}
+.icon i{
+padding: 0 10px;
+color: #cbcbcb;
+font-size: 25px;
+cursor: pointer;
+}
+/* footer end */

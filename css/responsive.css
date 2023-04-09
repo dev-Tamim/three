@@ -1,0 +1,604 @@
+@media (max-width: 575.98px) { 
+    #banner {
+        padding: 88px 0 !important;
+        }
+        #banner h2 {
+        font-size: 28px !important;
+        line-height: 40px !important;
+        }
+        #banner i {
+        margin: 20px auto !important;
+        line-height: 40px !important;
+        width: 40px !important;
+        height: 40px !important;
+        }
+        #banner a {
+        padding: 10px 25px !important;
+        font-size: 14px !important;
+        }
+        #banner p {
+        font-size: 13px !important;
+        }
+
+
+        .team_logo img{
+          margin: 0 5px;
+          width: 70% !important;
+      }
+
+#design h3 {
+    font-size: 10px !important;
+    line-height: 37px !important;
+    letter-spacing: 2px !important;
+  }
+  
+  #design h2 {
+    font-size: 27px !important;
+    line-height: 28px !important;
+    padding-bottom: 10px !important;
+  }
+  
+  #design p {
+    font-size: 14px !important;
+    line-height: 22px !important;
+    padding-bottom: 13px !important;
+  }
+  
+  
+  #design {
+    padding: 20px !important;
+  }
+  
+  
+  #design > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > img:nth-child(1) {
+    margin-top: 20px !important;
+  }
+  
+#fesure {
+    padding: 50px 0 50px 0 !important;
+  }
+  
+  #fesure h4 {
+    font-size: 13px !important;
+    line-height: 20px !important;
+    letter-spacing: 1px !important;
+  }
+  
+  #fesure h2 {
+    font-size: 30px !important;
+    line-height: 38px !important;
+  }
+  
+  #fesure h3 {
+    font-size: 19px !important;
+    line-height: 31px !important;
+    padding-top: 7px !important;
+  }
+  
+  #fesure p {
+    font-size: 12px !important;
+  }
+  
+  
+  div.fesure_item:nth-child(1) {
+    margin-bottom: 24px !important;
+  }
+
+
+#responsive {
+  padding: 30px 0 3px 0 !important;
+}
+
+#responsive h4 {
+  font-size: 13px !important;
+  line-height: 36px !important;
+  letter-spacing: 0px !important;
+}
+
+#responsive h2 {
+  font-size: 30px !important;
+  line-height: 30px !important;
+  padding-bottom: 19px !important;
+}
+
+#responsive p {
+  font-size: 14px !important;
+  line-height: 14px !important;
+  padding-bottom: 20px !important;
+}
+
+
+.responsive_text {
+  margin-top: 25px !important;
+  text-align: center !important;
+}
+
+
+.features_text {
+
+  padding: 50px 0 40px 0 !important;
+}
+
+.features_text h4 {
+
+  font-size: 14px !important;
+  line-height: 27px !important;
+  letter-spacing: 0px !important;
+}
+
+.features_text h2 {
+  
+  font-size: 27px !important;
+  line-height: 35px !important;
+  padding-bottom: 21px !important;
+}
+
+.features_text p {
+ 
+  font-size: 13px !important;
+  line-height: 18px !important;
+}
+
+
+#user {
+  padding: 50px 0 !important;
+}
+
+#user h4 {
+  font-size: 14px !important;
+  line-height: 30px !important;
+  letter-spacing: 0px !important;
+}
+
+#user h2 {
+  font-size: 32px !important;
+  line-height: 43px !important;
+  padding-bottom: 0px !important;
+}
+
+#user p {
+  font-size: 13px !important;
+  line-height: 23px !important;
+  text-align: end !important;
+}
+
+#user input {
+  margin-bottom: 10px !important;
+}
+
+
+i.fa-solid:nth-child(2) {
+  text-align: end !important;
+  font-size: 19px !important;
+}
+
+
+.justify-content-end > div:nth-child(1) {
+  text-align: end !important;
+}
+
+
+footer {
+  padding: 50px 0 !important;
+}
+
+footer p {
+  font-size: 13px !important;
+  line-height: 20px !important;
+}
+
+footer a {
+  font-size: 14px !important;
+  line-height: 22px !important;
+}
+
+footer input {
+  width: 70% !important;
+  padding: 7px 10px !important;
+  font-size: 12px !important;
+}
+
+footer button {
+  width: 30% !important;
+  padding: 6px 13px !important;
+}
+
+.icon i {
+  font-size: 21px !important;
+}
+.footer_item{
+  padding-top: 20px;
+}
+
+
+
+  
+ }
+ @media (min-width: 576px) and (max-width: 767.98px) { 
+  
+
+#banner {
+  padding: 78px 0 !important;
+}
+
+#banner h2 {
+  font-size: 40px !important;
+  line-height: 54px !important;
+}
+
+#banner a {
+  padding: 12px 29px !important;
+}
+
+#banner p {
+  font-size: 13px !important;
+}
+
+
+#design h2 {
+  font-size: 17px !important;
+  line-height: 23px !important;
+  padding-bottom: 9px !important;
+}
+
+#design h3 {
+  font-size: 13px !important;
+  line-height: 44px !important;
+  letter-spacing: 3px !important;
+  padding-top: 10px !important;
+}
+
+#design p {
+  font-size: 12px !important;
+  line-height: 21px !important;
+  padding-bottom: 17px !important;
+}
+
+
+#fesure {
+  padding: 36px 0 51px 0 !important;
+}
+
+#fesure h4 {
+  font-size: 11px !important;
+  line-height: 17px !important;
+  letter-spacing: 0px !important;
+}
+
+#fesure h2 {
+  font-size: 28px !important;
+  line-height: 41px !important;
+  padding-bottom: 21px !important;
+}
+
+#fesure h3 {
+  font-size: 14px !important;
+  padding-top: 2px !important;
+}
+
+#fesure p {
+  font-size: 11px !important;
+  line-height: 18px !important;
+}
+
+
+#responsive {
+  padding: 25px 0 30px 0 !important;
+}
+
+#responsive h4 {
+  font-size: 13px !important;
+  line-height: 38px !important;
+  letter-spacing: 2px !important;
+}
+
+#responsive h2 {
+  font-size: 24px !important;
+  line-height: 30px !important;
+  padding-bottom: 17px !important;
+}
+
+#responsive p {
+  font-size: 12px !important;
+  line-height: 18px !important;
+}
+
+
+#team {
+  padding: 43px 0 36px 0 !important;
+}
+
+#team h3 {
+  font-size: 13px !important;
+}
+
+#team h4 {
+  font-size: 11px !important;
+  padding-bottom: 7px !important;
+}
+
+#team p {
+  font-size: 11px !important;
+  line-height: 16px !important;
+}
+
+
+.features_text {
+  padding: 35px 0 25px 0 !important;
+}
+
+.features_text h4 {
+  font-size: 11px !important;
+  line-height: 18px !important;
+  letter-spacing: 1px !important;
+}
+
+.features_text h2 {
+  font-size: 29px !important;
+  line-height: 33px !important;
+  padding-bottom: 11px !important;
+}
+
+.features_text p {
+  font-size: 13px !important;
+  line-height: 20px !important;
+}
+
+#user {
+  padding: 30px 0 !important;
+}
+
+#user h4 {
+  font-size: 14px !important;
+  line-height: 32px !important;
+  letter-spacing: 0px !important;
+}
+
+#user h2 {
+  font-size: 29px !important;
+  line-height: 28px !important;
+  padding-bottom: 0px !important;
+}
+
+#user input {
+  padding: 15px 25px !important;
+  margin-bottom: 20px !important;
+}
+
+#user p {
+  font-size: 13px !important;
+}
+
+
+footer p {
+  font-size: 13px !important;
+  line-height: 21px !important;
+}
+
+footer h3 {
+  font-size: 15px !important;
+}
+
+footer a {
+  font-size: 10px !important;
+  line-height: 21px !important;
+}
+
+footer input {
+  padding: 10px 10px !important;
+  font-size: 12px !important;
+}
+
+footer button {
+  padding: 9px 0px !important;
+}
+
+.icon i {
+  padding: 0 6px !important;
+  font-size: 23px !important;
+}
+
+footer {
+  padding: 44px 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+  @media (min-width: 768px) and (max-width: 991.98px) { 
+    
+
+
+#banner h2 {
+  font-size: 52px !important;
+}
+
+#design h3 {
+  font-size: 13px !important;
+  letter-spacing: 3px !important;
+}
+
+#design h2 {
+  font-size: 26px!important;
+  line-height: 32px!important;
+  padding-bottom: 10px!important;
+}
+
+#design p {
+  font-size: 13px!important;
+  line-height: 22px!important;
+  padding-bottom: 21px!important;
+}
+
+#fesure {
+  padding: 43px 0 89px 0!important;
+}
+
+#fesure h4 {
+  font-size: 13px!important;
+  line-height: 37px!important;
+  letter-spacing: 1px!important;
+}
+
+#fesure h2 {
+  font-size: 30px!important;
+  line-height: 23px!important;
+  padding-bottom: 47px!important;
+}
+
+#fesure h3 {
+  font-size: 19px!important;
+  line-height: 52px!important;
+  padding-top: 5px!important;
+}
+
+#fesure p {
+  font-size: 14px!important;
+  line-height: 21px!important;
+}
+
+#responsive h4 {
+  font-size: 13px!important;
+}
+
+#responsive h2 {
+  font-size: 33px!important;
+  line-height: 42px!important;
+  padding-bottom: 21px!important;
+}
+
+#responsive p {
+  font-size: 15px!important;
+  line-height: 17px!important;
+}
+
+#responsive {
+  padding: 30px 0 50px 0!important;
+}
+
+#team h3 {
+  font-size: 16px!important;
+}
+
+#team h4 {
+  font-size: 13px!important;
+  padding-bottom: 7px!important;
+}
+
+#team p {
+  font-size: 12px!important;
+  line-height: 20px!important;
+  padding-bottom: 27px!important;
+}
+
+#team {
+  padding: 60px 0 50px 0!important;
+}
+
+.features_text {
+  padding: 44px 0 45px 0!important;
+}
+
+.features_text h4 {
+
+  font-size: 12px!important;
+  line-height: 32px!important;
+  letter-spacing: 1px!important;
+}
+
+.features_text h2 {
+  font-size: 31px!important;
+  line-height: 38px!important;
+  padding-bottom: 20px!important;
+}
+
+.features_text p {
+  font-size: 15px!important;
+  line-height: 21px!important;
+}
+
+
+#user {
+  padding: 47px 0 !important;
+}
+
+#user h4 {
+  font-size: 13px !important;
+  line-height: 37px !important;
+  letter-spacing: 1px !important;
+}
+
+#user h2 {
+  font-size: 30px !important;
+  line-height: 40px !important;
+  padding-bottom: 0px !important;
+}
+
+#user p {
+  font-size: 13px !important;
+  padding-top: 17px !important;
+  text-align: end !important;
+}
+
+#user i {
+  font-size: 19px !important;
+  display: block !important;
+  text-align: end !important;
+}
+
+#user input {
+  padding: 10px 10px !important;
+}
+
+#user button {
+  padding: 11px 0 !important;
+}
+
+footer {
+  padding: 48px 0 !important;
+}
+
+footer p {
+  font-size: 13px!important;
+  line-height: 22px!important;
+}
+
+footer h3 {
+  font-size: 18px !important;
+}
+
+footer a {
+  font-size: 15px !important;
+  line-height: 23px !important;
+}
+
+footer input {
+  padding: 10px 10px !important;
+  font-size: 14px !important;
+}
+
+footer button {
+  padding: 11px 0px !important;
+}
+
+   }
+   @media (min-width: 991.98px) and (max-width: 1199.98px) {
+    
+    }
